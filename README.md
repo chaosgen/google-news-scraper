@@ -18,7 +18,7 @@
 
 ### Prerequisites
 
-To run this tool, you need to have Python 3.11 installed in your system.
+To run this tool, you need to have Python 3.11 installed in your system. 
 
 ### Installation
 
